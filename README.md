@@ -3,7 +3,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/purveshmakode24/purveshmakode24" >
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=purveshmakode24&hide=C%23,java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=purveshmakode24&hide=C%23,java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
 </a>
 
 <a href="https://github.com/purveshmakode24/purveshmakode24" >
