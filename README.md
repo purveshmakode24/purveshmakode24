@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/purveshmakode24/purveshmakode24/main/wave.gif" width="30px">
+# Hey, there! <img src="https://raw.githubusercontent.com/purveshmakode24/purveshmakode24/main/wave.gif" width="30px">
 
 <!--
 **purveshmakode24/purveshmakode24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
