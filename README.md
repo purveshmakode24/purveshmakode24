@@ -1,10 +1,11 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/purveshmakode24/purveshmakode24/main/wave.gif" width="30px">
 
 <!--
 **purveshmakode24/purveshmakode24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+- Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
