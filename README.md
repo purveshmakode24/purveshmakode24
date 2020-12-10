@@ -3,11 +3,11 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/purveshmakode24/purveshmakode24" >
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=purveshmakode24&hide=c%23,java,objective-c&langs_count=8&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="170px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=purveshmakode24&hide=c%23,java,objective-c&langs_count=8&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
 </a>
 
 <a href="https://github.com/purveshmakode24/purveshmakode24" >
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=purveshmakode24&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Purvesh's GitHub Stats" height="170px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=purveshmakode24&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Purvesh's GitHub Stats" height="180px"/>
 </a>
 
 <!--
