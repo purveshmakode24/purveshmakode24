@@ -1,13 +1,13 @@
-# Hey, there! <img src="https://raw.githubusercontent.com/purveshmakode24/purveshmakode24/main/wave.gif" width="30px"> ![Purvesh's Github Visitor Count](https://profile-counter.glitch.me/purveshmakode24/count.svg)
+7# Hey, there! <img src="https://raw.githubusercontent.com/purveshmakode24/purveshmakode24/main/wave.gif" width="30px"> ![Purvesh's Github Visitor Count](https://profile-counter.glitch.me/purveshmakode24/count.svg)
 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/purveshmakode24/purveshmakode24" >
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=purveshmakode24&hide=c%23,java,html,objective-c,scss,CSS,hlsl,shaderlab&langs_count=9&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=purveshmakode24&hide=c%23,java,html,objective-c,scss,CSS,hlsl,shaderlab&langs_count=9&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="170px"/>
 </a>
 
 <a href="https://github.com/purveshmakode24/purveshmakode24" >
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=purveshmakode24&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Purvesh's GitHub Stats" height="180px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=purveshmakode24&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Purvesh's GitHub Stats" height="170px"/>
 </a>
 
 <!--
