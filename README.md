@@ -1,4 +1,4 @@
-7# Hey, there! <img src="https://raw.githubusercontent.com/purveshmakode24/purveshmakode24/main/wave.gif" height="30px" width="30px"> ![Purvesh's Github Visitor Count](https://profile-counter.glitch.me/purveshmakode24/count.svg)
+# Hey, there! <img src="https://raw.githubusercontent.com/purveshmakode24/purveshmakode24/main/wave.gif" height="30px" width="30px"> ![Purvesh's Github Visitor Count](https://profile-counter.glitch.me/purveshmakode24/count.svg)
 
 ## &#x1f4c8; GitHub Stats
 
