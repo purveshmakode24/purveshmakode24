@@ -27,6 +27,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-4dbae6?&logo=Redux)
 ![JQuery](https://img.shields.io/badge/-Jquery-4dbae6?&logo=Jquery)
 ![Docker](https://img.shields.io/badge/-Docker-4dbae6?&logo=Docker)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-4dbae6?&logo=RabbitMQ)
 ![Git](https://img.shields.io/badge/-Git-4dbae6?&logo=Git)
 ![Google Analytics](https://img.shields.io/badge/-GA-4dbae6?&logo=GoogleAnalytics)
 ![GTM](https://img.shields.io/badge/-GTM-4dbae6?&logo=GoogleTagManager)
