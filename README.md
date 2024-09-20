@@ -1,16 +1,5 @@
 # Hey, there! <img src="https://raw.githubusercontent.com/purveshmakode24/purveshmakode24/main/wave.gif" height="30px" width="30px"> ![Purvesh's Github Visitor Count](https://profile-counter.glitch.me/purveshmakode24/count.svg)
 
-
-<!-- ## &#x1f4c8; GitHub Stats
-
-
-<p>Just for testing</p>
-
-
-<a href="https://github.com/purveshmakode24/purveshmakode24" >
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=purveshmakode24&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Purvesh's GitHub Stats" height="150px"/>
-</a> -->
-
 ## Languages and Tools
 
 ![Python3](https://img.shields.io/badge/-Python3-4dbae6?&logo=Python)
