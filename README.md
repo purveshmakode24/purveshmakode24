@@ -25,12 +25,19 @@
 ![Angular](https://img.shields.io/badge/-Angular-4dbae6?&logo=Angular&logoColor=b52e31)
 ![React](https://img.shields.io/badge/-React-4dbae6?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-4dbae6?&logo=Redux)
+![NgRx](https://img.shields.io/badge/-NgRx-4dbae6?&logo=NgRx)
+![Git](https://img.shields.io/badge/-Git-4dbae6?&logo=Git)
+![Pandas](https://img.shields.io/badge/-Pandas-4dbae6?&logo=Pandas)
+![Chart.js](https://img.shields.io/badge/-Chart.js-4dbae6?&logo=Chart.js)
 ![JQuery](https://img.shields.io/badge/-Jquery-4dbae6?&logo=Jquery)
+![Storybook](https://img.shields.io/badge/-Storybook-4dbae6?&logo=Storybook)
+![Testing Library](https://img.shields.io/badge/-TestingLibrary-4dbae6?&logo=TestingLibrary)
+![Vitest](https://img.shields.io/badge/-Vitest-4dbae6?&logo=Vitest)
+![Cypress](https://img.shields.io/badge/-Cypress-4dbae6?&logo=Cypress)
 ![Docker](https://img.shields.io/badge/-Docker-4dbae6?&logo=Docker)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-4dbae6?&logo=RabbitMQ)
-![Git](https://img.shields.io/badge/-Git-4dbae6?&logo=Git)
 ![Google Analytics](https://img.shields.io/badge/-GA-4dbae6?&logo=GoogleAnalytics)
-![GTM](https://img.shields.io/badge/-GTM-4dbae6?&logo=GoogleTagManager)
+![GTM](https://img.shields.io/badge/-GoogleTagManager-4dbae6?&logo=GoogleTagManager)
 
 <!--
 **purveshmakode24/purveshmakode24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
